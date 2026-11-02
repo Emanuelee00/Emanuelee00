@@ -2,8 +2,6 @@
 
 Software engineering student at **École 42 Marseille**. I build with Python, and I like AI agents, RAG and security.
 
-I am looking for a **work-study contract (alternance) in software or AI, in Marseille, from the end of January 2027**.
-
 ## What I have done
 
 - **3 hackathon wins**: Chez Marthe (AIM 2026), Qista mosquito prediction (ZEBOX), Framasoft and FreePro.
@@ -39,7 +37,5 @@ Italian (native), French, English, Spanish.
 ## En français
 
 Étudiant en ingénierie logicielle à **l'École 42 Marseille**. Je développe en Python et je travaille sur les agents IA, le RAG et la cybersécurité.
-
-Je cherche une **alternance en développement ou en IA à Marseille, dès fin janvier 2027**.
 
 3 hackathons gagnés · top 10 européen au SANS CTF · projets ci-dessus.
