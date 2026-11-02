@@ -14,8 +14,7 @@ I am looking for a **work-study contract (alternance) in software or AI, in Mars
 
 | Project | What it is |
 |---|---|
-| [Hackathon_Aim_2026](https://github.com/Emanuelee00/Hackathon_Aim_2026) | Event and funding site, FastAPI and a local model (Ollama). Hackathon winner. |
-| [framasoft](https://github.com/Emanuelee00/framasoft) | DoS simulation with Gatling, nginx and uWSGI tuning, Django migration. Hackathon winner. |
+| [Hackathon_Aim_2026](https://github.com/Emanuelee00/Hackathon_Aim_2026) | Hackathon project (AIM 2026): FastAPI and a local model (Ollama). Winner. |
 | [qista_portfolio](https://github.com/Emanuelee00/qista_portfolio) | Mosquito risk prediction: Express gateway, FastAPI predictor, weather data. Hackathon winner. |
 | [lang-graph-ideas-workflow](https://github.com/Emanuelee00/lang-graph-ideas-workflow) | LangGraph workflow that researches, refines and tests an idea, with a human decision at the end. |
 | [ceva_hackathon](https://github.com/Emanuelee00/ceva_hackathon) | Agentic dashboard on transport data: a local LLM picks verified analysis tools. |
